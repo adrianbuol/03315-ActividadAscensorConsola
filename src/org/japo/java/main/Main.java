@@ -33,7 +33,7 @@ public class Main {
         final int P_MIN = 0;
 
         persona = 1;
-        do {
+        do { 
             try {
                 System.out.printf("Persona %d va al piso ", persona);
                 piso = SCN.nextInt();
